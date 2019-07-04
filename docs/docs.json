@@ -1,8 +1,0 @@
-{
-	"version":"1.0.0",
-	"title":"DS1307",
-	"copyright":"Zerynth Team",
-	"files":[
-		["DS1307","ds1307.py"]
-	]
-}
